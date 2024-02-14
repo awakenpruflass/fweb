@@ -1,0 +1,42 @@
+
+.qavtasi{
+  display: flex;
+  background-color: #f2f2f2;
+  justify-content: space-evenly;
+  font-size: 25px;
+  color: green;
+  align-items: center;
+  
+}
+
+.ena{
+  height: 57px;
+  width: 80px;
+  
+}
+
+.zevit{
+  background-color: green;
+  height: 30px;
+  display: flex;
+  justify-content: end;
+}
+.nom{
+  margin: 0;
+  color: white;
+}
+  .shek{
+    height: 350px;
+    margin-left: 300px;
+    margin-top: 40px;
+  }
+  .maz1{
+    height: 200px;
+    margin-left: 934px;
+    
+    
+
+
+  }
+
+  
